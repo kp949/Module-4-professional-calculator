@@ -80,11 +80,11 @@ git add .
 git commit -m "Create calculator project with tests"
 ```
 
-Create a new empty repository on GitHub, then connect and push:
+Create a new empty repository on GitHub named `Module-4-professional-calculator`, then connect and push:
 
 ```powershell
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git remote add origin https://github.com/kp949/Module-4-professional-calculator.git
 git push -u origin main
 ```
 
